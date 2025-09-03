@@ -16,6 +16,4 @@
 | geovannapires | Principal     |
 | vannaarchieve | Reserva       |
 
-<p align="center">
-  <img src="https://media.tenor.com/Mle3dtAOrfEAAAAM/cat-keyboard.gif" alt="Gif gatinho no pc digitando muitos As">
-</p>
+![Gif gatinho no pc digitando muitos As](https://media.tenor.com/Mle3dtAOrfEAAAAM/cat-keyboard.gif)
