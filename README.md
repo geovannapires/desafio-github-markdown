@@ -1,4 +1,4 @@
-<center> Desafio de Projeto Formação Github Certification | DIO </center>
+<center> <h1>Desafio de Projeto Formação Github Certification | DIO </h1></center>
 
 🎯 Objetivo do projeto: praticar formatação Markdown e experimentar os processos de colaboração no Git.
 
